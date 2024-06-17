@@ -11,3 +11,4 @@ This project was developed by the team Milky Way, consisting of Sharika, Vitesh,
 - **Sustainable Travel Tips:** Access valuable information and tips on sustainable travel practices.
 ## Acknowledgments
 We are excited to announce that Wildroute was awarded first place at Krithoathon 2.0, held at VNR VJIET on June 14th and 15th, 2024, organized by Krithomedh VNR VJIET. Our innovative approach to promoting sustainable travel impressed the jury from Intripid, whose excellent advice and invaluable feedback were crucial in achieving this milestone.
+![WhatsApp Image 2024-06-16 at 5 43 04 PM (1)](https://github.com/Sharika999/WildRoute/assets/153902791/b133f489-a177-43db-9926-72073fb7a674)
